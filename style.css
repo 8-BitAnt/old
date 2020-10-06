@@ -1,0 +1,25 @@
+body {
+  background-image: url("https://i.makeagif.com/media/1-27-2016/PXhlGq.gif")
+}
+ body{
+   background-color: lightskyblue;
+ }
+ h1{
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: green;
+   text-align: center;
+ }
+ h2{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: greenyellow;
+ }
+ h3{
+   font-family: 'Courier New', Courier, monospace;
+   background-color: lightblue
+
+ }
+ img{
+   border: lightgray ridge 10px;
+   display: block;
+   margin:auto;
+ }
